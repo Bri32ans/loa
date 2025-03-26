@@ -1,5 +1,5 @@
 body {
-    background: url('https://media.discordapp.net/attachments/1347760752920105033/1354283512064249948/images.jpeg?ex=67e4ba4e&is=67e368ce&hm=98e139380740890a45d270b9b86068089f8cf2d30737e5547a56ac882cab9e13&=&format=webp') no-repeat center center fixed;
+    background: url('https://raw.githubusercontent.com/Bri32ans/loa/refs/heads/main/images.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
